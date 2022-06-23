@@ -6,8 +6,8 @@ public class App {
         Generator generator = new Generator();
         String re;
 
-        re = generator.userInput();
-
+       re = generator.userInput();
+       // System.out.println(generator.meetsCharacterConstraints("12Ab"));
 
 
         System.out.print("Result is: " + re);
