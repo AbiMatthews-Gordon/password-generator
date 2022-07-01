@@ -9,9 +9,7 @@ public class App {
        re = generator.userInput();
        // System.out.println(generator.meetsCharacterConstraints("12Ab"));
 
-
         System.out.print("Result is: " + re);
-
 
     }
 }
